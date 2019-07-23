@@ -1,15 +1,9 @@
-#                                          _                    
-#   ___  _ __ __ _ _ __   __ _  ___     __| |_      ___ __ ___  
-#  / _ \| '__/ _` | '_ \ / _` |/ _ \   / _` \ \ /\ / / '_ ` _ \ 
-# | (_) | | | (_| | | | | (_| |  __/  | (_| |\ V  V /| | | | | |
-#  \___/|_|  \__,_|_| |_|\__, |\___|___\__,_| \_/\_/ |_| |_| |_|
-#                        |___/    |_____|                       
-
+# orange_dwm
 Well, not everything is themed orange, but the borders of the focused window and the bar at the top are :D
 
 Since people asked for my config files after posting this:
 
-![](The original Reddit post)[screenshot.png]
+![The original Reddit post](screenshot.png)
 
 on /r/unixporn, I decided to tidy them up (they aren't really, sorry) and post them here.
 Huge thanks to all of those countless <a href="https://suckless.org">suckless</a> people who made dwm possible.
